@@ -47,7 +47,7 @@ app.controller("LoginController", function($scope, $location,$http) {
 
         var req = {
             method: 'POST',
-            url: 'http://localhost:5000/user/registration',
+            url: 'https://elksystems-api-01.herokuapp.com:5000/user/registration',
             headers : {			
 				'Content-Type' : 'application/json'
 			},
