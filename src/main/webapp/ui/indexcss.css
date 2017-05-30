@@ -158,7 +158,7 @@ a{
 
 /* remove codrops styles and reset the whole thing */
 @import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
-body{background:url(http://www.businessnewsdaily.com/images/i/000/007/874/original/free-business-plan-templates.jpg);
+body{background:url(http://www.hlshipping.com/upload/hinhanh/8612136977650840.jpg);
 background-attachment:fixed;
 background-size:cover;
 }
@@ -449,7 +449,6 @@ p.change_link{
 }
 #register{	
 	z-index: 21;
-	opacity: 0;
 }
 #login{
 	z-index: 22;
