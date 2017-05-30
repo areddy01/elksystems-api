@@ -40,7 +40,7 @@
 	<logger name="org.springframework.web.servlet.mvc" level="WARN" />
 
 	<root level="DEBUG">
-		<appender-ref ref="FILE-AUDIT" />
+		<appender-ref ref="STDOUT" />
 	</root>
 
 </configuration>
